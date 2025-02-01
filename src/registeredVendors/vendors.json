@@ -1,0 +1,10 @@
+[
+  {
+    "id": "55191d75-04ff-49fb-852d-083635c1f46e",
+    "name": "Vendor 1",
+    "phoneNumber": true,
+    "assignedNumber": "123",
+    "status": "connected",
+    "lastConnection": "2025-02-01T17:43:08.951Z"
+  }
+]
