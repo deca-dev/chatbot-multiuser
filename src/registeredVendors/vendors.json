@@ -1,10 +1,11 @@
 [
   {
-    "id": "55191d75-04ff-49fb-852d-083635c1f46e",
+    "id": "df0ae6d1-a10b-4773-bc86-17f8fd8971f3",
     "name": "Vendor 1",
     "phoneNumber": true,
-    "assignedNumber": "123",
+    "assignedNumber": "1",
     "status": "connected",
-    "lastConnection": "2025-02-01T17:43:08.951Z"
+    "lastConnection": "2025-02-03T06:17:32.466Z",
+    "port": 3108
   }
 ]

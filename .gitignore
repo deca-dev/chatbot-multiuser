@@ -32,3 +32,4 @@ auth/
 /src/conversations/
 core.class.log
 /bot_sessions
+/registeredVendors
